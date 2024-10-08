@@ -1,12 +1,20 @@
 </div>
-  </div>
-    - 👋 Hi, I’m @SiOzan
-    - 👀 I’m interested in how the world works
-    - 🌱 I’m currently learning to code (beginner)
-    - 💞️ I’m looking to collaborate on developer company
-    - 📫 How to reach me "just call me"
-    - 😄 Pronouns: PADEV
-    - ⚡ Fun fact: there are two of me, one with Vincent
+  </div align="left">
+    <p>
+      - 👋 Hi, I’m @SiOzan
+      <br>
+      - 👀 I’m interested in how the world works
+      <br>
+      - 🌱 I’m currently learning to code (beginner)
+      <br>
+      - 💞️ I’m looking to collaborate on developer company
+      <br>
+      - 📫 How to reach me "just call me"
+      <br>
+      - 😄 Pronouns: PADEV
+      <br>
+      - ⚡ Fun fact: there are two of me, one with Vincent
+    </p>
   </div>
   <div align="right">
     <img height="150" src="game-gaming.gif" style="border-radius:50px;" />
