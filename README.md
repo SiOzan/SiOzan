@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @SiOzan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+</div>
+  </div>
+    - 👋 Hi, I’m @SiOzan
+    - 👀 I’m interested in how the world works
+    - 🌱 I’m currently learning to code (beginner)
+    - 💞️ I’m looking to collaborate on developer company
+    - 📫 How to reach me "just call me"
+    - 😄 Pronouns: PADEV
+    - ⚡ Fun fact: there are two of me, one with Vincent
+  </div>
+  <div align="right">
+    <img height="150" src="game-gaming.gif" style="border-radius:50px;" />
+  </div>
+</div>
 <!---
 SiOzan/SiOzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -39,6 +45,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" height="40" alt="postman logo"  />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png" height="40" alt="java logo"  />
 </div>
 
 ###
